@@ -33,6 +33,7 @@ GIF created with [Kap](https://getkap.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Initially had some trouble with downloading Android Studio/Android SDK because my VPN was turned on, but the problem was resolved once I disconnected it.
 
 ## License
 
