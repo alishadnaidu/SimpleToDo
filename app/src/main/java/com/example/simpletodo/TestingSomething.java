@@ -1,5 +1,5 @@
 package com.example.simpletodo;
 
 public class TestingSomething {
-    //adding a comment
+    //this is the comment I want to get rid of
 }
